@@ -8,7 +8,9 @@ import event_styles from '../../../styles/Event.module.css'
 
 const details = {
     name: "Blood Donation Camp",
-    description: "On XX-XXX-XXXX, this event happened"
+    description: "On XX-XXX-XXXX, this event happened",
+    
+
 }
 const images = [
     "https://images.shiksha.com/mediadata/images/1532934986phpVgWnJk.jpeg",

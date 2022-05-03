@@ -46,8 +46,8 @@ const Events: NextPage = () => {
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             
-            <h1 className={styles.heading}>National Service Scheme</h1>
-            <h2 className={styles.tag_line}>"Not Me But You"</h2>
+            {/* <h1 className={styles.heading}>National Service Scheme</h1>
+            <h2 className={styles.tag_line}>"Not Me But You"</h2> */}
             <h1 className={styles.heading}>Events</h1>
             <div className={styles.container}>
                 {

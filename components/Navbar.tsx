@@ -20,8 +20,8 @@ const Navbar = () => {
             name: "Events"
         },
         {
-            path: "/resources",
-            name: "Resources"
+            path: "/contact",
+            name: "Contact Us"
         }
     ]
 
